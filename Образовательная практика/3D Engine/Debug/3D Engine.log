@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (3D Engine.vcxproj, ClientApp.vcxproj, Project15.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  3D Engine.cpp
+C:\Users\Админ\Desktop\3D Engine\3D Engine.cpp(182,26): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\3D Engine\3D Engine.cpp(183,25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\3D Engine\3D Engine.cpp(184,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\3D Engine\3D Engine.cpp(185,28): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\3D Engine\3D Engine.cpp(188,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\3D Engine\3D Engine.cpp(188,20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\3D Engine\3D Engine.cpp(188,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\3D Engine\3D Engine.cpp(188,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\3D Engine\3D Engine.cpp(242,75): warning C4244: *=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\3D Engine\3D Engine.cpp(243,29): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\3D Engine\3D Engine.cpp(249,53): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\3D Engine\3D Engine.cpp(249,43): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\3D Engine\3D Engine.cpp(249,42): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\3D Engine\3D Engine.cpp(257,18): warning C4244: инициализация: преобразование "long" в "float", возможна потеря данных
+C:\Users\Админ\Desktop\3D Engine\3D Engine.cpp(258,11): warning C4244: =: преобразование "float" в "DWORD", возможна потеря данных
+  3D Engine.vcxproj -> C:\Users\Админ\Desktop\3D Engine\Debug\3DEngine.exe
