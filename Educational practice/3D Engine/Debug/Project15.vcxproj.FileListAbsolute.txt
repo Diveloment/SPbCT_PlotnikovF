@@ -1,0 +1,4 @@
+C:\Users\Админ\Desktop\3D Engine\Debug\Project15.vcxproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\3D Engine\Debug\Project15.MyForm.resources
+C:\Users\Админ\Desktop\3D Engine\Debug\Project15.vcxproj.GenerateResource.cache
+C:\Users\Админ\Desktop\3D Engine\Debug\Project15.exe
